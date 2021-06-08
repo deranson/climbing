@@ -74,4 +74,4 @@ Example: docs/foo.md is the note of the code src/modules/foo.rs of the content f
 
 
 ## License
-MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/deranson/climbing/blob/main/LICENSE)
