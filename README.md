@@ -11,8 +11,10 @@ src
  ┗ main.rs
 ```
 
-main.rs
-```
+<details>
+ <summary>main.rs</summary>
+ 
+ ```
 mod modules;
 
 use modules::strings::qstring;
@@ -24,13 +26,21 @@ fn main() {
 }
 ...
 ```
-modules.rs
+</details>
+
+<details>
+ <summary>modules.rs</summary>
+ 
 ```
 pub mod strings;
 
 ...
 ```
-modules/strings.rs
+</details>
+
+<details>
+ <summary>modules/strings.rs</summary>
+ 
 ```
 /// Create String from &str directly
 
@@ -40,6 +50,7 @@ pub fn qstring(str: &str) -> String {
 
 ...
 ```
+</details>
 
 ## Usage
 
