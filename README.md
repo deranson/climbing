@@ -66,7 +66,7 @@ pub fn qstring(str: &str) -> String {
 - Run `cargo run` command
 
 ## Docs
-Example: docs/foo.md is the note of the code src/modules/foo.rs of the content foo in Rust lang
+For example, `docs/foo.md` is the note of the code `src/modules/foo.rs` of the content Foo in Rust lang.
 ### **Contents** & **Docs** & **Modules**
 | Contents | Docs | Modules |
 | --- | --- | --- |
