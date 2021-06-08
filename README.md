@@ -1,4 +1,6 @@
 # Climbing
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/deranson/climbing/blob/main/LICENSE)
+
 Learning rust language is tough for me, so record practice here.
 
 ## Structure
@@ -6,11 +8,14 @@ Learning rust language is tough for me, so record practice here.
  climbing/
  ┣ docs
  ┃ ┗ strings.md
+ ┃ ┗ foo.md
+ ┃ ┗ ...
  ┃
  ┣ src
  ┃ ┗ modules
  ┃   ┗ strings.rs
- ┃   ┗ variables_mutability.rs
+ ┃   ┗ foo.rs
+ ┃   ┗ ...
  ┃
  ┃ ┗ modules.rs
  ┃ ┗ main.rs
@@ -74,4 +79,4 @@ For example, `docs/foo.md` is the note of the code `src/modules/foo.rs` of the c
 
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/deranson/climbing/blob/main/LICENSE)
+[MIT](https://github.com/deranson/climbing/blob/main/LICENSE)
