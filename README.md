@@ -57,4 +57,5 @@ pub fn qstring(str: &str) -> String {
 - Install rust in your local follow this [guide](https://www.rust-lang.org/tools/install)
 - Clone this repository to your local
 - Reference and use modules in `main.rs`
+- Cd the root dir
 - Run `cargo run` command
