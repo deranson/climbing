@@ -3,12 +3,17 @@ Learning rust language is tough for me, so record practice here.
 
 ## Structure
 ```
-src
- ┣ modules
- ┃ ┗ strings.rs
- ┃ ┗ variables_mutability.rs
- ┣ modules.rs
- ┗ main.rs
+ climbing/
+ ┣ docs
+ ┃ ┗ strings.md
+ ┃
+ ┣ src
+ ┃ ┗ modules
+ ┃   ┗ strings.rs
+ ┃   ┗ variables_mutability.rs
+ ┃
+ ┃ ┗ modules.rs
+ ┃ ┗ main.rs
 ```
 
 <details>
@@ -59,3 +64,14 @@ pub fn qstring(str: &str) -> String {
 - Reference and use modules in `main.rs`
 - Cd the root dir
 - Run `cargo run` command
+
+## Docs
+Example: docs/foo.md is the note of the code src/modules/foo.rs of the content foo in Rust lang
+### **Content** & **Docs** & **Modules**
+| Content | Docs | Modules |
+| --- | --- | --- |
+| String | [strings.md](docs/strings.md) | [strings.rs](src/modules/strings.rs) |
+
+
+## License
+MIT
