@@ -64,7 +64,7 @@ pub fn qstring(str: &str) -> String {
 
 ## Usage
 
-- Install rust in your local follow this [guide](https://www.rust-lang.org/tools/install)
+- Install rust in your local follow this [guide](https://www.rust-lang.org/tools/install) (**Note**: this repository uses the rust package manager [Cargo](https://doc.rust-lang.org/cargo/))
 - Clone this repository to your local
 - Reference and use modules in `main.rs`
 - Cd the root dir
