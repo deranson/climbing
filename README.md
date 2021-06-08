@@ -67,8 +67,8 @@ pub fn qstring(str: &str) -> String {
 
 ## Docs
 Example: docs/foo.md is the note of the code src/modules/foo.rs of the content foo in Rust lang
-### **Content** & **Docs** & **Modules**
-| Content | Docs | Modules |
+### **Contents** & **Docs** & **Modules**
+| Contents | Docs | Modules |
 | --- | --- | --- |
 | String | [strings.md](docs/strings.md) | [strings.rs](src/modules/strings.rs) |
 
