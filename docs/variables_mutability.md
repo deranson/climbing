@@ -39,4 +39,4 @@ Variables and Mutability in [The Rust Programming Language](https://doc.rust-lan
 
 Code in this repository in [here](../src/modules/variables_mutability.rs)
 
-Table of Doc contents in [here](../README.md###contents--docs--modules)
+Table of Doc contents in [here](../README.md#contents--docs--modules)
