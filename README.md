@@ -76,6 +76,7 @@ For example, `docs/foo.md` is the note of the code `src/modules/foo.rs` of the c
 | Contents | Docs | Modules |
 | --- | --- | --- |
 | String | [strings.md](docs/strings.md) | [strings.rs](src/modules/strings.rs) |
+| Variables and Mutability | [variables_mutability.md](docs/variables_mutability.md) | [variables_mutability.rs](src/modules/variables_mutability.rs) |
 
 
 ## License
