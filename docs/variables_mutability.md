@@ -2,7 +2,7 @@
 
 Code in [here](../src/modules/variables_mutability.rs)
 
-A variable **immutable by default** in Rust, eg `let x = 3; // its value can't be changed`
+A variable is **immutable by default** in Rust, eg `let x = 3; // its value can't be changed`
 
 Use the `mut` keyword before its name to make it mutable, eg `let mut x = 3;`
 
